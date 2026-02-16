@@ -6,7 +6,7 @@ import type {
     InventoryItem,
 } from './types';
 
-const API_URL = process.env.API_URL || 'http://localhost:3000';
+const API_URL = process.env.NEXT_API_URL || 'http://localhost:3000';
 
 // ─── Generic fetch wrapper ─────────────────────────────
 async function apiFetch<T>(
