@@ -4,7 +4,7 @@
 
 ## ⚡ Overview
 
-This project is a **real-time dashboard** that connects to a [NestJS hexagonal e-commerce backend](https://github.com/JoniAguero/nestjs-ecommerce) and visually demonstrates its **event-driven architecture**.
+This project is a **real-time dashboard** that connects to a [NestJS hexagonal e-commerce backend](https://github.com/JoniAguero/urbano-test-backend) and visually demonstrates its **event-driven architecture**.
 
 The key flow:
 
@@ -73,7 +73,7 @@ src/
 ### Prerequisites
 
 - Node.js 18+
-- Backend running on `http://localhost:3000` ([nestjs-ecommerce](https://github.com/JoniAguero/nestjs-ecommerce))
+- Backend running on `http://localhost:3000` ([urbano-test-backend](https://github.com/JoniAguero/urbano-test-backend))
 
 ### Setup
 
